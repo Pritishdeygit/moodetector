@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import ChatBox from "./components/chatBox";
+import ChatBox from "./components/ChatBox";
 import SentimentIntro from "./components/SentimentIntro";
 import SentimentQuizWrapper from "./components/SentimentQuizWrapper"; // quiz wrapper
 import Moodetective from "./components/moodetective";
