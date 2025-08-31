@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ChatBox from "./components/ChatBox";
 import SentimentIntro from "./components/SentimentIntro";
 import SentimentQuizWrapper from "./components/SentimentQuizWrapper"; // quiz wrapper
-import Moodetective from "./components/moodetective";
+import Moodetective from "./components/Moodetective";
 import Conclusion from "./components/Conclusion";
 
 function App() {
